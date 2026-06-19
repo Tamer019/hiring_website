@@ -6,7 +6,7 @@ export default function Home() {
       {/* Hero */}
       <section className="max-w-5xl mx-auto px-6 py-24">
         <p className="text-amber-800 text-sm font-medium tracking-widest uppercase mb-4">
-          Stukkateur · München seit 1989
+          Stukkateur · Metzingen seit 1989
         </p>
         <h1 className="text-5xl font-bold text-stone-900 leading-tight mb-6">
           Handwerk das <br /> Bestand hat.

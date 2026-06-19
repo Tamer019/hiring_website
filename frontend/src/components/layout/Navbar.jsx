@@ -5,7 +5,7 @@ export default function Navbar() {
     <header className="bg-stone-50 border-b border-stone-200">
       <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
         <Link to="/" className="text-stone-900 font-semibold text-lg tracking-wide">
-          Stuckwerk
+          IVAN GmbH
         </Link>
         <nav className="flex gap-8">
           <NavLink
